@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Daenerys Targaryen",
+    "image": "/images/danny.jpg",
+    "occupation": "Mother of Dragons",
+    "location": "Dragonstone"
+  },
+  {
+    "id": 2,
+    "name": "Cersei Lannister",
+    "image": "/images/cersei.jpg",
+    "occupation": "Evil Queen",
+    "location": "King's Landing"
+  },
+  {
+    "id": 3,
+    "name": "Jamie Lannister",
+    "image": "images/jaime.jpg",
+    "occupation": "King Slayer",
+    "location": "King's Landing"
+  },
+  {
+    "id": 4,
+    "name": "Tyrion Lanister",
+    "image": "images/tyrion.jpg",
+    "occupation": "Drinking & Knowing",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "The Hound",
+    "image": "images/hound.jpg",
+    "occupation": "Bad Ass",
+    "location": "Nowhere"
+  },
+  {
+    "id": 6,
+    "name": "Arya Stark",
+    "image": "images/arya.jpg",
+    "occupation": "A girl has no occupation",
+    "location": "Winterfell"
+  },
+  {
+    "id": 7,
+    "name": "Ser Bronn of the Blackwater",
+    "image": "images/bron.jpg",
+    "occupation": "Sell Sword",
+    "location": "King's Landing"
+  },
+  {
+    "id": 8,
+    "name": "Jon Snow",
+    "image": "images/snow.jpg",
+    "occupation": "King in the North",
+    "location": "Winterfell"
+  },
+  {
+    "id": 9,
+    "name": "The Mountain",
+    "image": "images/mountain.jpg",
+    "occupation": "Zombie Killing Machine",
+    "location": "King's Landing"
+  },
+  {
+    "id": 10,
+    "name": "Ros",
+    "image": "images/ros.jpg",
+    "occupation": "Lady of the Evening",
+    "location": "Winterfell"
+  },
+  {
+    "id": 11,
+    "name": "jorah Mormont",
+    "image": "images/jorah.jpg",
+    "occupation": "Queen's Guard",
+    "location": "Bear Island"
+  },
+  {
+    "id": 12,
+    "name": "Brienne of Tarth",
+    "image": "images/brienne.jpg",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
